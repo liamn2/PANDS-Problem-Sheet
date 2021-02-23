@@ -6,3 +6,5 @@
 <b>collatz.py</b> - Program that asks the user to input any positive integer and outputs the successive values of the following calculation: At each step, we calculate the next value by taking the current value and, if it is even, divide it by two, but if it is odd, multiply it by three and add one. Have the program end if the current value is one. Reference: https://codereview.stackexchange.com/questions/229270/python-the-collatz-sequence
 
 <b>weekday.py</b> - Program which determones whether input date is a weekday or the weeekend. Reference: https://stackabuse.com/beginners-tutorial-on-the-pandas-python-library/
+
+<b>squareroot.py</b> - Program that takes a positive floating-point number as input and outputs an approximation of its square root.
