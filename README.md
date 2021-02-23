@@ -7,4 +7,4 @@
 
 <b>weekday.py</b> - Program which determones whether input date is a weekday or the weeekend. Reference: https://stackabuse.com/beginners-tutorial-on-the-pandas-python-library/
 
-<b>squareroot.py</b> - Program that takes a positive floating-point number as input and outputs an approximation of its square root.
+<b>squareroot.py</b> - Program that takes a positive floating-point number as input and outputs an approximation of its square root. Reference: https://stackoverflow.com/questions/25054257/understanding-python-interpreter-t-tt-option
