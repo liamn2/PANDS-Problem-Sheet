@@ -9,6 +9,6 @@
 
 <b>squareroot.py</b> - Program that takes a positive floating-point number as input and outputs an approximation of its square root. Reference: https://stackoverflow.com/questions/25054257/understanding-python-interpreter-t-tt-option
 
-<b>es.py<\b> - Program to count the occurences of a particular character in a file. 
+<b>es.py</b> - Program to count the occurences of a particular character in a file. 
   Reference: https://www.sanfoundry.com/python-program-read-file-counts-number/
 
