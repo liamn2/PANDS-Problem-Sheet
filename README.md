@@ -11,4 +11,8 @@
 
 <b>es.py</b> - Program to count the occurences of a particular character in a file. 
   Reference: https://www.sanfoundry.com/python-program-read-file-counts-number/
+  
+<b>plottask.py</b> - # Program that displays a plot of the functions f(x)=x, g(x)=x2 and h(x)=x3 in the range [0, 4] on the one set of axes. 
+Reference: https://www.geeksforgeeks.org/graph-plotting-in-python-set-1/
+
 
